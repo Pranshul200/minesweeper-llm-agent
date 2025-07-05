@@ -108,8 +108,8 @@ Sample Output:
   "cols": 5,
   "mines": 3,
   "total_games": 100,
-  "wins": 30,
-  "win_rate": 0.3,
+  "wins": 17,
+  "win_rate": 0.17,
   "avg_revealed": 12.1,
   "avg_steps": 13.2,
   "avg_runtime_sec": 0.002

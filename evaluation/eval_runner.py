@@ -29,7 +29,7 @@ def evaluate_agent(agent_type, difficulty, config, num_games, seed_offset=0):
     for i in range(num_games):
         seed = seed_offset + i + 100
         api = MinesweeperAPI(config["rows"], config["cols"], config["mines"], seed)
-        agent = MockLLMAgent(api) if agent_type == "mock" else OllamaLLMAgent(api)
+        agent = OllamaLLMAgent(api)
 
         start_time = time.time()
         score = agent.play_game(verbose=False)
@@ -76,7 +76,7 @@ if __name__ == "__main__":
     difficulty_list = list(DIFFICULTIES.keys())
     games_per_level = total_games // len(difficulty_list)
 
-    for agent_type in ["mock", "llm"]:
+    for agent_type in ["llm"]:
         cumulative_seed_offset = 0
         for difficulty in difficulty_list:
             config = DIFFICULTIES[difficulty]

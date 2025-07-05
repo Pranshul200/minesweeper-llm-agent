@@ -1,0 +1,286 @@
+{
+  "agent": "llm",
+  "difficulty": "hard",
+  "board_size": "10x10",
+  "mines": 20,
+  "total_games": 34,
+  "wins": 0,
+  "win_rate": 0.0,
+  "avg_revealed": 0.0,
+  "avg_steps": 0.0,
+  "avg_runtime_sec": 0.0063,
+  "details": [
+    {
+      "game": 1,
+      "seed": 166,
+      "won": false,
+      "revealed": 0,
+      "steps": 0,
+      "runtime_sec": 0.0067
+    },
+    {
+      "game": 2,
+      "seed": 167,
+      "won": false,
+      "revealed": 0,
+      "steps": 0,
+      "runtime_sec": 0.007
+    },
+    {
+      "game": 3,
+      "seed": 168,
+      "won": false,
+      "revealed": 0,
+      "steps": 0,
+      "runtime_sec": 0.0068
+    },
+    {
+      "game": 4,
+      "seed": 169,
+      "won": false,
+      "revealed": 0,
+      "steps": 0,
+      "runtime_sec": 0.0069
+    },
+    {
+      "game": 5,
+      "seed": 170,
+      "won": false,
+      "revealed": 0,
+      "steps": 0,
+      "runtime_sec": 0.0088
+    },
+    {
+      "game": 6,
+      "seed": 171,
+      "won": false,
+      "revealed": 0,
+      "steps": 0,
+      "runtime_sec": 0.0071
+    },
+    {
+      "game": 7,
+      "seed": 172,
+      "won": false,
+      "revealed": 0,
+      "steps": 0,
+      "runtime_sec": 0.006
+    },
+    {
+      "game": 8,
+      "seed": 173,
+      "won": false,
+      "revealed": 0,
+      "steps": 0,
+      "runtime_sec": 0.0058
+    },
+    {
+      "game": 9,
+      "seed": 174,
+      "won": false,
+      "revealed": 0,
+      "steps": 0,
+      "runtime_sec": 0.0057
+    },
+    {
+      "game": 10,
+      "seed": 175,
+      "won": false,
+      "revealed": 0,
+      "steps": 0,
+      "runtime_sec": 0.006
+    },
+    {
+      "game": 11,
+      "seed": 176,
+      "won": false,
+      "revealed": 0,
+      "steps": 0,
+      "runtime_sec": 0.0058
+    },
+    {
+      "game": 12,
+      "seed": 177,
+      "won": false,
+      "revealed": 0,
+      "steps": 0,
+      "runtime_sec": 0.0056
+    },
+    {
+      "game": 13,
+      "seed": 178,
+      "won": false,
+      "revealed": 0,
+      "steps": 0,
+      "runtime_sec": 0.0058
+    },
+    {
+      "game": 14,
+      "seed": 179,
+      "won": false,
+      "revealed": 0,
+      "steps": 0,
+      "runtime_sec": 0.0063
+    },
+    {
+      "game": 15,
+      "seed": 180,
+      "won": false,
+      "revealed": 0,
+      "steps": 0,
+      "runtime_sec": 0.0062
+    },
+    {
+      "game": 16,
+      "seed": 181,
+      "won": false,
+      "revealed": 0,
+      "steps": 0,
+      "runtime_sec": 0.0061
+    },
+    {
+      "game": 17,
+      "seed": 182,
+      "won": false,
+      "revealed": 0,
+      "steps": 0,
+      "runtime_sec": 0.0065
+    },
+    {
+      "game": 18,
+      "seed": 183,
+      "won": false,
+      "revealed": 0,
+      "steps": 0,
+      "runtime_sec": 0.0066
+    },
+    {
+      "game": 19,
+      "seed": 184,
+      "won": false,
+      "revealed": 0,
+      "steps": 0,
+      "runtime_sec": 0.0068
+    },
+    {
+      "game": 20,
+      "seed": 185,
+      "won": false,
+      "revealed": 0,
+      "steps": 0,
+      "runtime_sec": 0.0101
+    },
+    {
+      "game": 21,
+      "seed": 186,
+      "won": false,
+      "revealed": 0,
+      "steps": 0,
+      "runtime_sec": 0.0057
+    },
+    {
+      "game": 22,
+      "seed": 187,
+      "won": false,
+      "revealed": 0,
+      "steps": 0,
+      "runtime_sec": 0.0057
+    },
+    {
+      "game": 23,
+      "seed": 188,
+      "won": false,
+      "revealed": 0,
+      "steps": 0,
+      "runtime_sec": 0.0057
+    },
+    {
+      "game": 24,
+      "seed": 189,
+      "won": false,
+      "revealed": 0,
+      "steps": 0,
+      "runtime_sec": 0.0057
+    },
+    {
+      "game": 25,
+      "seed": 190,
+      "won": false,
+      "revealed": 0,
+      "steps": 0,
+      "runtime_sec": 0.0057
+    },
+    {
+      "game": 26,
+      "seed": 191,
+      "won": false,
+      "revealed": 0,
+      "steps": 0,
+      "runtime_sec": 0.0057
+    },
+    {
+      "game": 27,
+      "seed": 192,
+      "won": false,
+      "revealed": 0,
+      "steps": 0,
+      "runtime_sec": 0.0056
+    },
+    {
+      "game": 28,
+      "seed": 193,
+      "won": false,
+      "revealed": 0,
+      "steps": 0,
+      "runtime_sec": 0.0056
+    },
+    {
+      "game": 29,
+      "seed": 194,
+      "won": false,
+      "revealed": 0,
+      "steps": 0,
+      "runtime_sec": 0.0062
+    },
+    {
+      "game": 30,
+      "seed": 195,
+      "won": false,
+      "revealed": 0,
+      "steps": 0,
+      "runtime_sec": 0.006
+    },
+    {
+      "game": 31,
+      "seed": 196,
+      "won": false,
+      "revealed": 0,
+      "steps": 0,
+      "runtime_sec": 0.006
+    },
+    {
+      "game": 32,
+      "seed": 197,
+      "won": false,
+      "revealed": 0,
+      "steps": 0,
+      "runtime_sec": 0.006
+    },
+    {
+      "game": 33,
+      "seed": 198,
+      "won": false,
+      "revealed": 0,
+      "steps": 0,
+      "runtime_sec": 0.0057
+    },
+    {
+      "game": 34,
+      "seed": 199,
+      "won": false,
+      "revealed": 0,
+      "steps": 0,
+      "runtime_sec": 0.0056
+    }
+  ]
+}
