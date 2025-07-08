@@ -90,9 +90,9 @@ Your objective is to reveal a safe cell. If you reveal a mine, you lose. If you 
 
 Input board:
 ```
-? 1 0 1 ?
-? 1 0 2 ?
-1 1 0 1 ?
+0 0 1 ? ?
+0 0 1 ? ?
+0 0 1 2 ?
 0 0 0 1 1
 0 0 0 0 0
 ```
@@ -175,9 +175,9 @@ Your objective is to reveal a safe cell. If you reveal a mine, you lose. If you 
 
 Input board:
 ```
-? 1 0 1 ?
-? 1 0 2 ?
-1 1 0 1 ?
+0 0 1 ? ?
+0 0 1 ? ?
+0 0 1 2 ?
 0 0 0 1 1
 0 0 0 0 0
 ```
